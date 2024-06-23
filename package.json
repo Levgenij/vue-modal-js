@@ -1,10 +1,6 @@
 {
-  "author": {
-    "name": "Ievgenii Lypei",
-    "email": "ilevgenij@gmail.com",
-    "url": "https://redentu.com"
-  },
-  "bundleDependencies": false,
+  "author": "Ievgenii Lypei <ilevgenij@gmail.com> (https://redentu.com)",
+  "bundleDependencies": [],
   "dependencies": {
     "sweet-modal-vue": "^1.2.0"
   },
@@ -16,13 +12,24 @@
   "license": "ISC",
   "main": "index.js",
   "name": "vue-modal-js",
-  "keywords": "vue-modal-js, vue-js-modal, vue-modal, vue modal, vue popup, sweet-modal-vue",
+  "keywords": [
+    "vue-modal-js",
+    "vue-js-modal",
+    "vue-modal",
+    "vue modal",
+    "vue popup",
+    "sweet-modal-vue"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Levgenij/vue-modal-js.git"
+    "url": "git+https://github.com/Levgenij/vue-modal-js.git"
   },
-  "version": "1.0.5"
+  "version": "1.0.6",
+  "bugs": {
+    "url": "https://github.com/Levgenij/vue-modal-js/issues"
+  },
+  "homepage": "https://github.com/Levgenij/vue-modal-js#readme"
 }
